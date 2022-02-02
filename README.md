@@ -11,4 +11,4 @@
  3) Enter the desired longitude and latitude
  4) See the current weather
 
-#### To boot from 
+#### To boot from the device just allow the app to use your location on the popup screen after launching
